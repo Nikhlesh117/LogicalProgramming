@@ -6,8 +6,8 @@
         {
             //Fibonacci.FindFibonacci();
             //PerfectNumber.FindThePerfectNumber();
-            Prime.PrimeNumber();
-            //Reverse.ReverseNumber();
+            //Prime.PrimeNumber();
+            Reverse.ReverseNumber();
             //CouponNumbers.Coupon();
             //Stopwatch.Simulate();
         }
