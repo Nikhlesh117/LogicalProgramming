@@ -5,11 +5,11 @@
         public static void Main(String[] args)
         {
             //Fibonacci.FindFibonacci();
-            //PerfectNumber.FindThePerfectNumber();
+            PerfectNumber.FindThePerfectNumber();
             //Prime.PrimeNumber();
             //Reverse.ReverseNumber();
             //CouponNumbers.Coupon();
-            Stopwatch.Simulate();
+            //Stopwatch.Simulate();
         }
     }
 
