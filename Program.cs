@@ -4,12 +4,12 @@
     {
         public static void Main(String[] args)
         {
-            //Fibonacci.FindFibonacci();
+            Fibonacci.FindFibonacci();
             //PerfectNumber.FindThePerfectNumber();
             //Prime.PrimeNumber();
             //Reverse.ReverseNumber();
             //CouponNumbers.Coupon();
-            Stopwatch.Simulate();
+            //Stopwatch.Simulate();
         }
     }
 
