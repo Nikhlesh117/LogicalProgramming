@@ -1,4 +1,6 @@
-﻿namespace LogicalProgram
+﻿using LogicalProgramming;
+
+namespace LogicalProgram
 {
     public class program
     {
@@ -7,9 +9,11 @@
             //Fibonacci.FindFibonacci();
             //PerfectNumber.FindThePerfectNumber();
             //Prime.PrimeNumber();
-            Reverse.ReverseNumber();
-            //CouponNumbers.Coupon();
-            //Stopwatch.Simulate();
+            //Reverse.ReverseNumber();
+            CouponNumbers.Coupon();
+            //StopWatch.Simulation();
+            
+
         }
     }
 
